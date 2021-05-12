@@ -16,8 +16,7 @@ Link of the website: https://codeyab22.github.io/Polished-Updated-Portfolio-Page
 
 # Screenshot of the Deployed Website
 This is the deployed delight of this portfolio
-
-![image](https://drive.google.com/uc?export=view&id=1PzSOssSFjGxF6Ntfwx7GP5GyuWkjFrEH)
+(https://drive.google.com/uc?export=view&id=1jJq3BfPVizkspnfxehrlemxozAZrbngk)
 
 # Links to the Repositories for my Projects
 Here are the links of the repositories of the projects
