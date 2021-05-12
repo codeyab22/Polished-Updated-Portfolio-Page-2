@@ -1,6 +1,6 @@
 # Polished-Updated-Portfolio-Page-2
 # About this project
-This is my polished-updated-portfolio, my recent bio filled with coding projects and more.I am working on the other projects. I am going to give you updates. 
+This is my polished-updated-portfolio, my recent bio filled with coding projects and more. I am working on the other projects. I am going to give you updates. 
 
 # Motivation(s)
 
@@ -15,7 +15,7 @@ Link to the repo: https://github.com/codeyab22/Polished-Updated-Portfolio-Page-2
 Link of the website: https://codeyab22.github.io/Polished-Updated-Portfolio-Page-2/
 
 # Screenshot of the Deployed Website
-This is the deployed delight of this portfolio
+
 ![image](https://drive.google.com/uc?export=view&id=1jJq3BfPVizkspnfxehrlemxozAZrbngk)
 
 # Links to the Repositories for my Projects
